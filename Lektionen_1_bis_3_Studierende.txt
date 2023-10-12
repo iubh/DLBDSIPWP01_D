@@ -1,0 +1,10 @@
+Robin; Künstliche Intelligenz; 3; Pythonfortgeschritten
+Christina; Cyber Security; 1; Informatik, C/C++
+Dominik; Robotik; 2; Pythonneuling, SPS
+Yvonne; Elektrotechnik; 2; C/C++, SPS
+Billel; Cyber Security; 1; Informatik
+Paul; Cyber Security; 2; C/C++, Fortran
+Christian; Elektrotechnik; 1; SPS, Java
+Rahel; Cyber Security; 2; Pythonneuling, Java
+Tomi; FinTech; 1; Pythonneuling
+Marie; Künstliche Intelligenz; 3; Pythonfortgeschritten
