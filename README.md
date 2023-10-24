@@ -7,6 +7,6 @@ Die Dateinamen dieser Codebeispiele enthalten die Nummern der Lektionen, auf die
 
 Weiterhin enthält dieses Repository ein Jupyter Notebook mit lektionsübergreifenden kleinen Programmieraufgaben (zum eigenständigen Programmieren) sowie das entsprechende Jupyter Notebook mit zusätzlichen Beispiellösungen (zum Nachvollziehen und Variieren des Codes). Verwende diese Notebooks zum weiteren Üben, wenn du die Inhalte des Skripts bereits erarbeitet hast.
 
-Lade die Notebooks herunter und führe Sie in deiner individuellen Entwicklungsumgebung aus, oder verwende eine temporäre Remote-Umgebung über den folgenden Button: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iubh/DLBDSIPWP01_D/main). Bedenke, dass deine Änderungen in der temporären Umgebung nicht gespeichert werden.
+Lade die Notebooks herunter und führe Sie in deiner individuellen Entwicklungsumgebung aus, oder verwende eine temporäre Remote-Umgebung über den folgenden Button [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/iubh/DLBDSIPWP01_D/main). Bedenke, dass deine Änderungen in der temporären Umgebung nicht gespeichert werden.
 
 Viel Spaß und Erfolg beim Üben!
