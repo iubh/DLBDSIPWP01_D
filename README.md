@@ -9,4 +9,7 @@ Weiterhin enthält dieses Repository ein Jupyter Notebook mit lektionsübergreif
 
 Lade die Notebooks gerne herunter und führe Sie in deiner individuellen Entwicklungsumgebung aus.
 
+Schau dir zur weiteren Erklärung gerne parallel die Aufzeichnungen der Sprint-Sessions in der Videogalerie des Kurses an. 
+Zu einigen Notebooks findest du auch zusätzliche Informationen in den Lektionsvideos und Shortcasts.
+
 Viel Spaß und Erfolg beim Üben!
