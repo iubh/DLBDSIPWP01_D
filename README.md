@@ -7,6 +7,8 @@ Die Dateinamen der Codebeispiele enthalten die Nummern der Lektionen, auf die si
 
 Weiterhin enthält dieses Repository ein Jupyter Notebook mit lektionsübergreifenden kleinen Programmieraufgaben (zum eigenständigen Programmieren) sowie das entsprechende Jupyter Notebook mit zusätzlichen Beispiellösungen (zum Nachvollziehen und Variieren des Codes). Dieses Notebook kannst du verwenden, wenn du alle Inhalte des Skripts erarbeitet hast.
 
+Im Order 'weitere_Beispielaufgaben' findest du Programmieraufgaben, die aus verschiedenen Anwendungsbereichen inspiriert sind, z.B. FinTech, Cyber Security, AI, MedInf, Robotik. Verwende diese, wenn du weiterführend programmieren üben möchtest.
+
 Lade die Notebooks gerne herunter und führe Sie in deiner individuellen Entwicklungsumgebung aus.
 
 Schau dir zur weiteren Erklärung gerne parallel die Aufzeichnungen der Sprint-Sessions in der Videogalerie des Kurses an. 
