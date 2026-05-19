@@ -1,10 +1,13 @@
+Lisa; Medizininformatik; 2; Python, R
 Robin; Künstliche Intelligenz; 3; Python
 Christina; Cyber Security; 1; C/C++
-Dominik; Robotik; 2; SPS
+Dominik; Robotik; 2; SPS, MATLAB
 Yvonne; Elektrotechnik; 2; C/C++, SPS
 Billel; Cyber Security; 1; keine
+Sophie; Medizininformatik; 1; Java, keine
 Paul; Cyber Security; 2; C/C++, Fortran
 Christian; Elektrotechnik; 1; SPS, Java
 Rahel; Cyber Security; 2; Java
 Tomi; FinTech; 1; Python
 Marie; Künstliche Intelligenz; 3; Python
+Klaus; Medizininformatik; 3; MATLAB, C++
