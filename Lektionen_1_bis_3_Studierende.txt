@@ -1,13 +1,138 @@
-Lisa; Medizininformatik; 2; Python, R
 Robin; Künstliche Intelligenz; 3; Python
 Christina; Cyber Security; 1; C/C++
-Dominik; Robotik; 2; SPS, MATLAB
+Dominik; Robotik; 2; SPS
 Yvonne; Elektrotechnik; 2; C/C++, SPS
-Billel; Cyber Security; 1; keine
-Sophie; Medizininformatik; 1; Java, keine
+Billel; Cyber Security; 1;  keine
 Paul; Cyber Security; 2; C/C++, Fortran
 Christian; Elektrotechnik; 1; SPS, Java
 Rahel; Cyber Security; 2; Java
 Tomi; FinTech; 1; Python
 Marie; Künstliche Intelligenz; 3; Python
-Klaus; Medizininformatik; 3; MATLAB, C++
+Anna; Informatik; 1; Python
+Ben; Data Science; 2; R, SQL
+Clara; Cyber Security; 3; C/C++
+David; Elektrotechnik; 1; SPS
+Elena; FinTech; 4; Python, JavaScript
+Felix; Wirtschaftsinformatik; 2; Java, SQL
+Greta; Mechatronik; 3; C/C++, MATLAB
+Hannes; Maschinenbau; 5; keine
+Iris; Computer Science; 1; Python, HTML/CSS
+Jan; Medieninformatik; 2; JavaScript, HTML/CSS
+Kira; IT-Management; 3; keine
+Luca; Data Science; 2; Python, R, SQL
+Mona; Informatik; 3; Java, C#
+Noah; Cyber Security; 1; Python
+Olga; Elektrotechnik; 2; C/C++, SPS
+Pauline; FinTech; 4; Python, SQL
+Qasim; Wirtschaftsinformatik; 1; Java, JavaScript
+Rita; Mechatronik; 2; C/C++
+Sebastian; Maschinenbau; 3; keine
+Theresa; Computer Science; 4; Python, Go
+Ulf; Medieninformatik; 1; HTML/CSS, JavaScript
+Vera; IT-Management; 2; keine
+Wolfgang; Data Science; 3; R, Python
+Xenia; Informatik; 1; C/C++
+Yannick; Cyber Security; 2; Python
+Zoé; Elektrotechnik; 1; SPS
+Alexander; FinTech; 3; Python
+Beate; Wirtschaftsinformatik; 2; Java
+Christoph; Mechatronik; 4; C/C++, MATLAB
+Daniel; Maschinenbau; 1; keine
+Eva; Computer Science; 2; Python, Go
+Fabian; Medieninformatik; 3; HTML/CSS
+Gabi; IT-Management; 4; C#
+Holger; Data Science; 1; Python
+Isabel; Informatik; 2; Java
+Jonas; Cyber Security; 3; Python
+Katharina; Elektrotechnik; 1; SPS
+Leon; FinTech; 2; SQL
+Mara; Wirtschaftsinformatik; 3; JavaScript
+Nico; Mechatronik; 4; C/C++
+Olive; Maschinenbau; 1; keine
+Petra; Computer Science; 2; Go
+Quirin; Medieninformatik; 3; HTML/CSS
+Rafael; IT-Management; 4; C#
+Saskia; Data Science; 1; R
+Tom; Informatik; 2; Java, Python
+Ute; Cyber Security; 1; C/C++
+Volker; Elektrotechnik; 2; SPS
+Wanda; FinTech; 3; Python
+Xaver; Wirtschaftsinformatik; 1; Java
+Yvonne; Mechatronik; 2; C/C++
+Zoe; Maschinenbau; 4; keine
+Aaron; Computer Science; 1; Python
+Bianca; Medieninformatik; 2; JavaScript
+Carsten; IT-Management; 3; C#
+Diana; Data Science; 2; R
+Erik; Informatik; 3; Java, Python
+Friederike; Cyber Security; 1; Python
+Gustav; Elektrotechnik; 2; SPS
+Helena; FinTech; 3; SQL
+Ingmar; Wirtschaftsinformatik; 4; Java
+Julia; Mechatronik; 1; C/C++
+Karl; Maschinenbau; 2; keine
+Lena; Computer Science; 3; Python
+Mark; Medieninformatik; 4; JavaScript
+Nele; IT-Management; 1; C#
+Oskar; Data Science; 2; R, Python
+Paula; Informatik; 1; Java
+Quentin; Cyber Security; 2; Python
+Ruth; Elektrotechnik; 3; SPS
+Stefan; FinTech; 1; Python
+Trixi; Wirtschaftsinformatik; 2; JavaScript
+Ulrich; Mechatronik; 3; C/C++
+Viktoria; Maschinenbau; 1; keine
+Willi; Computer Science; 2; Go
+Xenia; Medieninformatik; 3; HTML/CSS
+Yann; IT-Management; 4; C#
+Zoé; Data Science; 1; Python
+Anton; Informatik; 2; C/C++
+Birgit; Cyber Security; 3; Python
+Cedric; Elektrotechnik; 1; SPS
+Dagmar; FinTech; 2; SQL
+Eike; Wirtschaftsinformatik; 3; Java
+Florian; Mechatronik; 4; C/C++
+Gunda; Maschinenbau; 1; keine
+Heike; Computer Science; 2; Go
+Imke; Medieninformatik; 3; HTML/CSS
+Kerstin; Data Science; 1; R
+Lutz; Informatik; 2; Java, Python
+Manuel; Cyber Security; 1; C/C++
+Nina; Elektrotechnik; 2; SPS
+Oleg; FinTech; 3; Python
+Petra; Wirtschaftsinformatik; 1; JavaScript
+Roland; Mechatronik; 2; C/C++
+Silke; Maschinenbau; 3; keine
+Thorsten; Computer Science; 4; Python
+Ulla; Medieninformatik; 1; HTML/CSS
+Veit; IT-Management; 2; C#
+Wolf; Data Science; 3; R, Python
+Xaver; Informatik; 4; C/C++
+Yara; Cyber Security; 1; Python
+Zacharias; Elektrotechnik; 2; SPS
+Amelie; FinTech; 3; SQL
+Björn; Wirtschaftsinformatik; 4; Java
+Claudia; Mechatronik; 1; C/C++
+Dirk; Maschinenbau; 2; keine
+Eva; Computer Science; 3; Go
+Finn; Medieninformatik; 4; HTML/CSS
+Gerd; IT-Management; 1; C#
+Hilde; Data Science; 2; R
+Ines; Informatik; 3; Java, Python
+Joachim; Cyber Security; 1; C/C++
+Kerstin; Elektrotechnik; 2; SPS
+Lucia; FinTech; 4; Python
+Matthias; Wirtschaftsinformatik; 1; JavaScript
+Nora; Mechatronik; 2; C/C++
+Otto; Maschinenbau; 3; keine
+Patricia; Computer Science; 4; Python
+Quirin; Medieninformatik; 1; HTML/CSS
+Ramona; IT-Management; 2; C#
+Stephan; Data Science; 3; R, Python
+Tobias; Informatik; 1; C/C++
+Ute; Cyber Security; 2; Python
+Victor; Elektrotechnik; 3; SPS
+Waltraud; FinTech; 4; SQL
+Xaver; Wirtschaftsinformatik; 1; Java
+Yvonne; Mechatronik; 2; C/C++
+Zoltan; Maschinenbau; 3; keine
